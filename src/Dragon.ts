@@ -4,6 +4,6 @@ export default class Dragon extends Monster {
   constructor() {
     super();
     this._lifePoints = 999;
-    this._strength = 200;
+    this._strength = 33;
   }
 }
