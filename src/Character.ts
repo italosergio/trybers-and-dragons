@@ -91,7 +91,7 @@ export default class Character implements Fighter {
   }
 
   special(enemy: Fighter): void {
-    enemy.receiveDamage(getRandomInt(3, 7));
+    enemy.receiveDamage(100);
     this._defense -= 2;
     this._lifePoints += getRandomInt(2, 5);
     
