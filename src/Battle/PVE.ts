@@ -12,11 +12,19 @@ export default class PVE extends Battle {
   fight(): number {
     this.environment.forEach((enemy) => {
       enemy.attack(this.player);
+      enemy.attack(this.player);
+      this.player.attack(enemy);
+      this.player.attack(enemy);
       this.player.attack(enemy);
       enemy.attack(this.player);
       enemy.attack(this.player);
+      this.player.attack(enemy);
       enemy.attack(this.player);
-      this.player.special(enemy);
+      this.player.attack(enemy);
+      this.player.attack(enemy);
+      enemy.attack(this.player);
+      this.player.attack(enemy);
+      this.player.attack(enemy);
     });
 
     return this.player.lifePoints === -1 ? -1 : 1;
