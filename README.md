@@ -22,24 +22,27 @@ Neste projeto, eu fui capaz de:
     * `npm install`
   * Inicialize o projeto:
     * `npm start`
-
+    * 
 3. Modifique o arquivo `/src/index.ts` como quiser, para criar batalhas épicas!
+
+4. Inicialize o projeto:
+    * `npm start`
 
 
 ## Quests
-  - [x] 1 - Criar a classe `Race`
-  - [x] 2 - Criar classes que herdam de `Race` 
-  - [x] 3 - Criar a interface `Energy` 
-  - [x] 4 - Criar a classe `Archetype` 
-  - [x] 5 - Criar classes que herdam de `Archetype`
-  - [x] 6 - Criar a interface `Fighter` 
-  - [x] 7 - Criar a classe `Character`
-  - [x] 8 - Criar a interface `SimpleFighter`
-  - [x] 9 - Criar a classe `Monster`
-  - [x] 10 - Criar a classe `PVP`
-  - [x] 🚀 11 - Criar a classe `PVE` 
-  - [x] 🚀 12 - Criar a classe `Dragon` 
-  - [x] 🚀 13 - Criar objetos no arquivo `index`
+  - [x] 1 - [Criar a classe `Race`](https://github.com/italosergio/trybers-and-dragons/commit/9b87d1ac16ce1ddd1e3e09469423bffd63dedb32)
+  - [x] 2 - [Criar classes que herdam de `Race`](https://github.com/italosergio/trybers-and-dragons/commit/f2ce512ea61a5869e32ffd30b1fba48f181a7b99)
+  - [x] 3 - [Criar a interface `Energy`](https://github.com/italosergio/trybers-and-dragons/commit/6d139e418d5823d736d6e44323925140a7a900ac)
+  - [x] 4 - [Criar a classe `Archetype`](https://github.com/italosergio/trybers-and-dragons/commit/8eb630252a3722ec263e6094476119dc36e74cf5)
+  - [x] 5 - [Criar classes que herdam de `Archetype`](https://github.com/italosergio/trybers-and-dragons/commit/80a856f350b85ab3f66b94909ea2e2ed7b4750e3)
+  - [x] 6 - [Criar a interface `Fighter`](https://github.com/italosergio/trybers-and-dragons/commit/e7068464ce513aac6e1bfc759112a3e9b442b26b) [[refactor I]](https://github.com/italosergio/trybers-and-dragons/commit/2b328ac15358f51506147973714486d8e89e80ff) [[refactor II]](https://github.com/italosergio/trybers-and-dragons/commit/23f75f029c566035985489ce4e1b33bef4a104a0)
+  - [x] 7 - [Criar a classe `Character`](https://github.com/italosergio/trybers-and-dragons/commit/0028e9c0e738d46acbd51638249ded59f7fd2efe) [[fix]](https://github.com/italosergio/trybers-and-dragons/commit/34221f5a862985bab1ead61bece48c430671f734) [[refactor I]](https://github.com/italosergio/trybers-and-dragons/commit/282ae0ae67a35df0f231c16f6053b2a51bda7139) [[refactor II]](https://github.com/italosergio/trybers-and-dragons/commit/d83ac3d4eb15f860606debcf26296dd590973415)
+  - [x] 8 - [Criar a interface `SimpleFighter`](https://github.com/italosergio/trybers-and-dragons/commit/fd6c8c8fcd9908be1dcad814b939425949b1174c)
+  - [x] 9 - [Criar a classe `Monster`](https://github.com/italosergio/trybers-and-dragons/commit/f5fe9a5c75867aefce420a665e24db2d4ad96ed2) [[refactor I]](https://github.com/italosergio/trybers-and-dragons/commit/20127aa28a31286fc6d1d6234c432d1e87bcae4c)
+  - [x] 10 - [Criar a classe `PVP`](https://github.com/italosergio/trybers-and-dragons/commit/cf033b4f6cf08193de16c6849beefe1104fb8028)
+  - [x] 🚀 11 - [Criar a classe `PVE`](https://github.com/italosergio/trybers-and-dragons/commit/59322ba4e226247aa5ca87917c9a6ad714aed86b) [[refactor I]](https://github.com/italosergio/trybers-and-dragons/commit/be7b49cee9e5e2f8fbd4ad132b00b88dc9a8f568) [[refactor II]](https://github.com/italosergio/trybers-and-dragons/commit/b388e743400d2236d9aa6b0ac16092324c3ec846)
+  - [x] 🚀 12 - [Criar a classe `Dragon`](https://github.com/italosergio/trybers-and-dragons/commit/3d57035e25cf4711c8f194d1d0414cc0b0faa017) [[refactor I]](https://github.com/italosergio/trybers-and-dragons/commit/0595f6d1c01b0d16a57bc43f4342c7a8c3c6b74b)
+  - [x] 🚀 13 - [Criar objetos no arquivo `index`](https://github.com/italosergio/trybers-and-dragons/commit/c395fdebe1bf7733780643f652277e506b7ff7d0)
 
 ![giphy](https://giffiles.alphacoders.com/207/207669.gif) 
 
