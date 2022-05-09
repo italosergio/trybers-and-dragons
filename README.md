@@ -1,22 +1,6 @@
 # ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/87591265/164945242-3c54845b-76d4-4e10-a83a-92609402add2.gif) Trybers and Dragons ![ezgif com-gif-maker](https://user-images.githubusercontent.com/87591265/164945189-e727a241-acd1-4d46-a2fc-4dfdaaaabbcb.gif)
 
-### Quests
-  - [x] 1 - Crie a classe `Race` [commit](https://github.com/italosergio/trybers-and-dragons/commit/9b87d1ac16ce1ddd1e3e09469423bffd63dedb32)
-  - [x] 2 - Crie classes que herdam de `Race` [commit](https://github.com/italosergio/trybers-and-dragons/commit/f2ce512ea61a5869e32ffd30b1fba48f181a7b99)
-  - [x] 3 - Crie a interface `Energy` [commit](https://github.com/italosergio/trybers-and-dragons/commit/6d139e418d5823d736d6e44323925140a7a900ac)
-  - [x] 4 - Crie a classe `Archetype` [commit](https://github.com/italosergio/trybers-and-dragons/commit/8eb630252a3722ec263e6094476119dc36e74cf5)
-  - [x] 5 - Crie classes que herdam de `Archetype`[commit](https://github.com/italosergio/trybers-and-dragons/commit/80a856f350b85ab3f66b94909ea2e2ed7b4750e3)
-  - [x] 6 - Crie a interface `Fighter` [commit](https://github.com/italosergio/trybers-and-dragons/commit/e7068464ce513aac6e1bfc759112a3e9b442b26b)
-  - [x] 7 - Crie a classe `Character` [commit](https://github.com/italosergio/trybers-and-dragons/commit/0028e9c0e738d46acbd51638249ded59f7fd2efe) [commit](https://github.com/italosergio/trybers-and-dragons/commit/34221f5a862985bab1ead61bece48c430671f734)
-  - [x] 8 - Crie a interface `SimpleFighter` [commit](https://github.com/italosergio/trybers-and-dragons/commit/fd6c8c8fcd9908be1dcad814b939425949b1174c)
-  - [x] 9 - Crie a classe `Monster` [commit](https://github.com/italosergio/trybers-and-dragons/commit/f5fe9a5c75867aefce420a665e24db2d4ad96ed2)
-  - [x] 10 - Crie a classe `PVP` [commit](https://github.com/italosergio/trybers-and-dragons/commit/cf033b4f6cf08193de16c6849beefe1104fb8028)
-  - [x] 🚀 11 - Criar a classe `PVE` [commit](https://github.com/italosergio/trybers-and-dragons/commit/59322ba4e226247aa5ca87917c9a6ad714aed86b)
-  - [x] 🚀 12 - Crie a classe `Dragon` [commit](https://github.com/italosergio/trybers-and-dragons/commit/3d57035e25cf4711c8f194d1d0414cc0b0faa017)
-  - [x] 🚀 13 - Crie objetos no arquivo `index` [commit](https://github.com/italosergio/trybers-and-dragons/commit/c395fdebe1bf7733780643f652277e506b7ff7d0)
-![giphy](https://giffiles.alphacoders.com/207/207669.gif) 
-
-# Habilidades
+## Habilidades
 
 Neste projeto, eu fui capaz de:
 
@@ -25,6 +9,39 @@ Neste projeto, eu fui capaz de:
 - Exercitar a criação e utilização de `Interfaces`;
 - Implementar, em `TypeScript`: `Classes`, `Instâncias`, `Atributos`, `Métodos` e `Objetos`;
 - Exercitar o conhecimento por meio da aplicação dos princípios `SOLID`.
+
+## Como jogar
+
+1. Clone o repositório
+  * `git clone https://github.com/italosergio/star-wars-search-planet`
+  * Entre na pasta do repositório que você acabou de clonar:
+    * `cd star-wars-search-planet`
+
+2. Instale as dependências e inicialize o projeto
+  * Instale as dependências:
+    * `npm install`
+  * Inicialize o projeto:
+    * `npm start`
+
+3. Modifique o arquivo `/src/index.ts` como quiser, para criar batalhas épicas!
+
+
+## Quests
+  - [x] 1 - Criar a classe `Race`
+  - [x] 2 - Criar classes que herdam de `Race` 
+  - [x] 3 - Criar a interface `Energy` 
+  - [x] 4 - Criar a classe `Archetype` 
+  - [x] 5 - Criar classes que herdam de `Archetype`
+  - [x] 6 - Criar a interface `Fighter` 
+  - [x] 7 - Criar a classe `Character`
+  - [x] 8 - Criar a interface `SimpleFighter`
+  - [x] 9 - Criar a classe `Monster`
+  - [x] 10 - Criar a classe `PVP`
+  - [x] 🚀 11 - Criar a classe `PVE` 
+  - [x] 🚀 12 - Criar a classe `Dragon` 
+  - [x] 🚀 13 - Criar objetos no arquivo `index`
+
+![giphy](https://giffiles.alphacoders.com/207/207669.gif) 
 
 # Contextualizando
 
